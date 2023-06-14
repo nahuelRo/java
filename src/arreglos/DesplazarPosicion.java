@@ -1,4 +1,4 @@
-package M_arreglos;
+package arreglos;
 
 import java.util.Scanner;
 

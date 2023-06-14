@@ -1,4 +1,4 @@
-package E_operadores;
+package operadores;
 
 public class Asignacion {
     public static void main(String[] args) {

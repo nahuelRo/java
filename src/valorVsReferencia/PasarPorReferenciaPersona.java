@@ -1,4 +1,4 @@
-package H_valorVsReferencia;
+package valorVsReferencia;
 
 class Persona {
     private String nombre;

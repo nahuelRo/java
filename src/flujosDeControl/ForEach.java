@@ -1,4 +1,4 @@
-package F_flujosDeControl;
+package flujosDeControl;
 
 public class ForEach {
     public static void main(String[] args) {

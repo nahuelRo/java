@@ -1,4 +1,4 @@
-package C_primitivos;
+package primitivos;
 
 import javax.swing.*;
 

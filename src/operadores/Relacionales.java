@@ -1,4 +1,4 @@
-package E_operadores;
+package operadores;
 
 public class Relacionales {
     public static void main(String[] args) {

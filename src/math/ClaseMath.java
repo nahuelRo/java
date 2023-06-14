@@ -1,4 +1,4 @@
-package K_Math;
+package Math;
 
 public class ClaseMath {
     public static void main(String[] args) {

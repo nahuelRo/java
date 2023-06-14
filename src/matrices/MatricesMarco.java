@@ -1,4 +1,4 @@
-package N_matrices;
+package matrices;
 
 public class MatricesMarco {
     public static void main(String[] args) {

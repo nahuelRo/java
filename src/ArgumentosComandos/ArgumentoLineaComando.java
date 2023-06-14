@@ -1,4 +1,4 @@
-package L_ArgumentosComandos;
+package ArgumentosComandos;
 
 public class ArgumentoLineaComando {
     public static void main(String[] args) {

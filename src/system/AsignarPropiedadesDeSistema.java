@@ -1,4 +1,4 @@
-package J_system;
+package system;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package M_arreglos;
+package arreglos;
 
 public class OrdenPrincipioFinal {
     public static void main(String[] args) {

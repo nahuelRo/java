@@ -1,4 +1,4 @@
-package D_string;
+package string;
 
 public class MetodoArreglo {
     public static void main(String[] args) {

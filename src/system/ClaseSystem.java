@@ -1,4 +1,4 @@
-package J_system;
+package system;
 
 import java.util.Properties;
 

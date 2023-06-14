@@ -1,4 +1,4 @@
-package C_primitivos;
+package primitivos;
 
 public class ConversionDeTipos {
     public static void main(String[] args) {

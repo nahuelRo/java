@@ -1,4 +1,4 @@
-package H_valorVsReferencia;
+package valorVsReferencia;
 
 public class PasarPorReferencia {
     public static void main(String[] args) {

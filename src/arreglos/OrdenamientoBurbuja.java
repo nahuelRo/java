@@ -1,4 +1,4 @@
-package M_arreglos;
+package arreglos;
 
 public class OrdenamientoBurbuja {
     public static void arregloInverso(String[] arreglo){

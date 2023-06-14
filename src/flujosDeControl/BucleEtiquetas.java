@@ -1,4 +1,4 @@
-package F_flujosDeControl;
+package flujosDeControl;
 
 public class BucleEtiquetas {
     public static void main(String[] args) {

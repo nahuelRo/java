@@ -1,4 +1,4 @@
-package K_Math;
+package Math;
 
 import java.util.Random;
 

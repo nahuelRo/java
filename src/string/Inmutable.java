@@ -1,4 +1,4 @@
-package D_string;
+package string;
 
 public class Inmutable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package J_system;
+package system;
 
 public class EjecutarProgramaSO {
     public static void main(String[] args) {

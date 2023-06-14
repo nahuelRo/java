@@ -1,4 +1,4 @@
-package N_matrices;
+package matrices;
 
 public class MatricesIdentidad {
     public static void main(String[] args) {

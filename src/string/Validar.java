@@ -1,4 +1,4 @@
-package D_string;
+package string;
 
 public class Validar {
     public static void main(String[] args) {

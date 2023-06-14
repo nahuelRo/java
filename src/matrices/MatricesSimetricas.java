@@ -1,4 +1,4 @@
-package N_matrices;
+package matrices;
 
 public class MatricesSimetricas {
     public static void main(String[] args) {

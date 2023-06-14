@@ -1,4 +1,4 @@
-package C_primitivos;
+package primitivos;
 
 public class Entero {
     public static void main(String[] args) {
